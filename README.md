@@ -1,26 +1,20 @@
 ﻿# [控制平台](https://github.com/OS-Q/W7) 
-
 [![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
-
 #### 归属功能节点：[M2](https://github.com/OS-Q/M2)
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 
 Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
 
-### [节点描述](https://github.com/OS-Q/M1/wiki) 
+### [平台描述](https://github.com/OS-Q/W7/wiki) 
 
-数据转换节点，通过集成各种数据采集终端传感器，通过归一的传感器实现数据输出。
+控制平台主要应用于对外输出进行反馈驱动，可以结合更多的功能单元和设备实现闭环控制
 
-纯数据转换不带有业务控制逻辑，用于转换和采集数据，无策略无条件进行数据转换。
-
-### [节点资源](https://github.com/OS-Q/M1) 
+### [平台资源](https://github.com/OS-Q/W7) 
 
 * [资源](src/)
 * [文档](docs/)
 
-
-
-### [节点相关](https://github.com/OS-Q)
+### [平台相关](https://github.com/OS-Q)
 
 * M2：[数据获取](https://github.com/OS-Q/M2)
     * W5：[鉴权平台](https://github.com/OS-Q/W5)
