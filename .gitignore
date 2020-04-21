@@ -1,0 +1,5 @@
+*.pyc
+platformio/*.pyc
+.pio/
+.vscode/
+.rst
