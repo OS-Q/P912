@@ -1,0 +1,27 @@
+{
+  "name": "P912",
+  "title": "Linux i686",
+  "description": "Linux i686 (32-bit) is a Unix-like and mostly POSIX-compliant computer operating system (OS) assembled under the model of free and open-source software development and distribution. Using host OS (Mac OS X or Linux 32-bit) you can build native application for Linux i686 platform.",
+  "homepage": "http://platformio.org/platforms/P912",
+  "license": "Apache-2.0",
+  "keywords": [
+    "dev-platform",
+    "Linux",
+    "i686"
+  ],
+  "engines": {
+    "platformio": "^5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/platformio/platform-linux_i686.git"
+  },
+  "version": "1.1.2",
+  "packages": {
+    "toolchain-gcclinux32": {
+      "type": "toolchain",
+      "owner": "platformio",
+      "version": "~1.40801.0"
+    }
+  }
+}
