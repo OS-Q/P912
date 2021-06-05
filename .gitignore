@@ -1,5 +1,3 @@
 *.pyc
-platformio/*.pyc
-.pio/
-.vscode/
-.rst
+.travis.yml
+README*
