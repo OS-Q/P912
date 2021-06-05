@@ -1,3 +1,4 @@
 *.pyc
 .travis.yml
 README*
+!README.md
